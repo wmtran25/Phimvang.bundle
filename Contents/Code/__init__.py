@@ -5,8 +5,8 @@ import re
 from BeautifulSoup import BeautifulSoup
 ################################## PHIMVANG #########################################
 NAME = "Phimvang"
-BASE_URL = "http://phimvang.org"
-SEARH_URL = 'http://phimvang.org/tim-kiem/tat-ca/%s%s'
+BASE_URL = "http://phimvang.com"
+SEARH_URL = 'http://phimvang.com/tim-kiem/tat-ca/%s%s'
 DEFAULT_ICO = 'icon-default.png'
 SEARCH_ICO = 'icon-search.png'
 NEXT_ICO = 'icon-next.png'
